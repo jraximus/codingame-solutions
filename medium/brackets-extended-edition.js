@@ -1,5 +1,5 @@
 // ****************************************************************************************************************************************
-// puzzle of the week Aug 29th->8th, 2020
+// puzzle of the week Aug 23th->29th, 2020
 // puzzle: https://www.codingame.com/training/medium/brackets-extended-edition
 // rating:  easy after doing brackets-extreme-edition(easy rated puzzle) - just had to modify code to handle more cases
 // time: <30 minutes
